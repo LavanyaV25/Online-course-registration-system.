@@ -1,2 +1,17 @@
-# Online-course-registration-system.
-The Online Course Registration System simplifies enrollment by enabling students to browse, register, and manage courses online. It features secure access, payment integration, and personalized dashboards. Administrators can manage courses efficiently, reducing errors, workload, and promoting a seamless registration process.
+Installation Steps(Configuration)
+
+1. Download and Unzip file on your local system.
+2. Put this file inside root directory
+3. Database Configuration
+
+Database Configuration
+Open phpmyadmin
+Create Database onlinecourse
+Import database onlinecourse.sql (available inside zip package)
+Open Your browser put inside browser “http://localhost/onlinecourse”
+Login Details
+To Login as admin put inside browser “http://localhost/onlinecourse/admin”
+Login Details for admin : admin/Test@123
+To Login as Student put inside browser “http://localhost/onlinecourse/”
+Login Details for Student: 10806121/Test@123
+Student Pincode for enroll Course Student: 715948
